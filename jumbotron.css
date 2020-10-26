@@ -1,0 +1,22 @@
+.jumbotron {
+    padding-top: 140px;
+}
+
+.center {
+    text-align: center;
+}
+
+.frame {
+    width: 80%;
+    height: 1150px;
+    border: none;
+}
+
+.underHeader {
+    padding-top: 80px;
+}
+
+.fit {
+    max-height: 100%;
+    max-width: 100%;
+}
